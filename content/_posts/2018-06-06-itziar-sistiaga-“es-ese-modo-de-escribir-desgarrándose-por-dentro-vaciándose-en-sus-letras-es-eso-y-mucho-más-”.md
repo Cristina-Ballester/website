@@ -5,9 +5,7 @@ title: >-
 date: '2018-05-14T22:54:35+02:00'
 categories: '#PersonasQueSuman'
 image:
-  alt: >-
-    Itziar Sistiaga: "Es ese modo de escribir desgarrándose por dentro,
-    vaciándose en sus letras. Es eso y mucho más."
+  alt: Itziar Sistiaga
   url: /assets/uploads/itziar-sistiaga-1.jpg
 ---
 Itziar nació tan cerca de mí que es el mismo trocito de firmamento el que nos arropa cada noche. Yo en Bilbao, ella en Irún. Con sólo dos años de diferencia. Ella, una escritora con libros publicados. Yo, sólo la persona que quiere narrar la historia que hace de ella quién es.
