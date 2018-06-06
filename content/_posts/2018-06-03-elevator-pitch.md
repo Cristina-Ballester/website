@@ -1,8 +1,10 @@
 ---
-layout: post
-title:  "Elevator pitch"
-date:   2018-06-03 16:50:39 +0200
-categories: "RRHH"
+title: Elevator pitch
+date: '2018-06-03 16:50:39 +0200'
+categories: RRHH
+image:
+  alt: Elevator pitch
+  url: /assets/uploads/elevator-pitch-1040x780.jpg
 ---
 ¿Quién eres? ¿A qué te dedicas? Seguramente las respuestas te han venido automáticamente a la mente. Este es tu nombre, tu edad, tu lugar de nacimiento. Eres arquitecto o informático, quizás artista.
 
