@@ -42,6 +42,11 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+collection_folder: content
+colelctions:
+  paginas:
+    output: true
+
 defaults:
   - scope:
       path: ""

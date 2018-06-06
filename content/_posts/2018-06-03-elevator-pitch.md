@@ -6,7 +6,7 @@ categories: "RRHH"
 ---
 ¿Quién eres? ¿A qué te dedicas? Seguramente las respuestas te han venido automáticamente a la mente. Este es tu nombre, tu edad, tu lugar de nacimiento. Eres arquitecto o informático, quizás artista.
 
-**Palabras vacías**. **Estereotipos**. **Etiquetas, otra vez**.
+**Palabras vacías**. **Estereotipos**. **[Etiquetas](/quitate-las-gafas), otra vez**.
 
 A estas alturas del camino, habrás oído hablar mil veces del elevator pitch. Pero, por si no es así, te cuento que se trata de concentrar en el período más corto de tiempo (lo que tarda un ascensor en llevarte a tu piso) aquello que hace que el que te escucha te quiera contratar o comprar tu producto.
 
