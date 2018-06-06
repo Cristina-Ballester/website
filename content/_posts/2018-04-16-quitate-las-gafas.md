@@ -1,8 +1,10 @@
 ---
-layout: post
-title:  "Quítate las gafas"
-date:   2018-04-16 16:50:39 +0200
-categories: "RRHH"
+title: Quítate las gafas
+date: '2018-04-16 16:50:39 +0200'
+categories: RRHH
+image:
+  alt: Quítate las gafas
+  url: /assets/uploads/quitate-las-gafas-1040x874.jpg
 ---
 
 Ya lo canta Melendi en su canción. Ahora es el momento de romper con lo establecido, de quitarte las gafas que te pintan el mundo de un color que nada tiene de realidad.
