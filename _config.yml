@@ -52,4 +52,5 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: post
       permalink: /:title
