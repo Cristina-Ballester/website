@@ -19,7 +19,6 @@ collections:
       - label: "Etiquetas"
         name: "tags"
         widget: "list"
-        default: [""]
       - label: "Imagen destacada"
         name: "image"
         widget: "object"
