@@ -2,6 +2,9 @@
 title: Elevator pitch
 date: '2018-06-03 16:50:39 +0200'
 category: RRHH
+tags: >-
+  desempleo, emociones, empleados, empresa, empresas, entrevista, inteligencia
+  emocional
 image:
   alt: Elevator pitch
   url: /assets/uploads/elevator-pitch-1040x780.jpg
