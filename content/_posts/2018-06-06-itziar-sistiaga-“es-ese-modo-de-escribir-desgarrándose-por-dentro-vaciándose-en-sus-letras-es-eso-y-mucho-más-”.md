@@ -3,7 +3,7 @@ title: >-
   Itziar Sistiaga: “Es ese modo de escribir desgarrándose por dentro, vaciándose
   en sus letras. Es eso y mucho más.”
 date: '2018-05-14T22:54:35+02:00'
-categories: '#PersonasQueSuman'
+category: '#PersonasQueSuman'
 image:
   alt: Itziar Sistiaga
   url: /assets/uploads/itziar-sistiaga-1.jpg

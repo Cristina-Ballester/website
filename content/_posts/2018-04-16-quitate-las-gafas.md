@@ -1,7 +1,7 @@
 ---
 title: Quítate las gafas
 date: '2018-04-16 16:50:39 +0200'
-categories: RRHH
+category: RRHH
 image:
   alt: Quítate las gafas
   url: /assets/uploads/quitate-las-gafas-1040x874.jpg

@@ -1,7 +1,7 @@
 ---
 title: ¿Y si dices "no"?
 date: '2018-05-28T20:40:39+02:00'
-categories: RRHH
+category: RRHH
 image:
   alt: ¿Y si dices "no"?
   url: /assets/uploads/y-si-dices-no-1040x775.jpg
@@ -12,7 +12,7 @@ Sé, como tú, lo difícil que es volver a la carga cuando te duele hasta el alm
 
 Hoy te escribo este post sabiendo que me dirás que no es tan fácil, que hay facturas que pagar, comida que comprar, personas a las que mantener. No me olvido de ello, **lo he sufrido como lo estás sufriendo tú y aún así quiero que recapacites conmigo**.
 
-He hablado [en otros momentos]() de la importancia que tiene el ser consciente de que en una entrevista es necesario conectar con el seleccionador, así como de [la posibilidad que el candidato tiene de decidir](). 
+He hablado [en otros momentos]() de la importancia que tiene el ser consciente de que en una entrevista es necesario conectar con el seleccionador, así como de [la posibilidad que el candidato tiene de decidir]().
 
 **El mercado laboral está viviendo un reajuste, una nueva acomodación a estándares** que hasta hoy eran impensables. Jornadas maratonianas, ausencia de estabilidad, rotaciones de plantillas completas, sueldos escasos y falta de ética empresarial. Puedes convivir con todo ello, pero no tienes por qué aceptarlo.
 
