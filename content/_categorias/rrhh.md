@@ -1,5 +1,6 @@
 ---
-layout: category
 title: RRHH
-category: RRHH
+permalink: /rrhh/
+categoria: RRHH
 ---
+
