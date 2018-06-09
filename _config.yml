@@ -46,11 +46,25 @@ collection_folder: content
 colelctions:
   paginas:
     output: true
+  categorias:
+    output: true
 
 defaults:
+  - scope:
+      path: ""
+      type: paginas
+    values:
+      layout: page
+      permalink: /:title
   - scope:
       path: ""
       type: posts
     values:
       layout: post
+      permalink: /:title
+  - scope:
+      path: ""
+      type: categorias
+    values:
+      layout: category
       permalink: /:title
