@@ -1,5 +1,6 @@
 ---
-layout: category
 title: Colaboraciones
-category: colaboraciones
+permalink: /colaboraciones/
+categoria: Colaboraciones
 ---
+
