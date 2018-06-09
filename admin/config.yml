@@ -49,7 +49,8 @@ collections:
       - label: "Imagen destacada"
         name: "image"
         widget: "object"
+        required: false
         fields:
           - {label: "Imagen", name: "url", widget: "image"}
           - {label: "Alt", name: "alt", widget: "string"}
-      - {label: "Intro", name: "intro", widget: "markdown"}
+      - {label: "Intro", name: "intro", widget: "markdown", required: false}
