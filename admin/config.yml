@@ -35,7 +35,7 @@ collections:
     fields:
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string", default: "/{{slug}}"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
 
   - name: "categorias"
     label: "Categorías"
