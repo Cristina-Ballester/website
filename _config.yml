@@ -42,7 +42,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-collection_folder: content
+collections_dir: content
 collections:
   paginas:
     output: true
