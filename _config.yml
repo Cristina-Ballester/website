@@ -43,7 +43,7 @@ plugins:
 #   - vendor/ruby/
 
 collection_folder: content
-colelctions:
+collections:
   paginas:
     output: true
   categorias:
