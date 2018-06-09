@@ -1,6 +1,6 @@
 ---
-layout: category
-title: "#PersonasQueSuman"
-permalink: personas-que-suman
-category: "#PersonasQueSuman"
+title: '#PersonasQueSuman'
+permalink: /personas-que-suman/
+categoria: '#PersonasQueSumas'
 ---
+
