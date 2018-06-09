@@ -27,29 +27,29 @@ collections:
           - {label: "Alt", name: "alt", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-    - name: "paginas"
-      label: "Páginas"
-      folder: "content/_paginas"
-      create: true
-      slug: "{{slug}}"
-      fields:
-        - {label: "Título", name: "title", widget: "string"}
-        - {label: "Permalink", name: "permalink", widget: "string", default: "/{{slug}}"}
-        - {label: "Body", name: "body", widget: "markdown"}
+  - name: "paginas"
+    label: "Páginas"
+    folder: "content/_paginas"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string", default: "/{{slug}}"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
-    - name: "categorias"
-      label: "Categorías"
-      folder: "content/_categorias"
-      create: true
-      slug: "{{slug}}"
-      fields:
-        - {label: "Título", name: "title", widget: "string"}
-        - {label: "Permalink", name: "permalink", widget: "string", default: "/{{slug}}"}
-        - {label: "Categoría", name: "categoria", widget: "string"}
-        - label: "Imagen destacada"
-          name: "image"
-          widget: "object"
-          fields:
-            - {label: "Imagen", name: "url", widget: "image"}
-            - {label: "Alt", name: "alt", widget: "string"}
-        - {label: "Intro", name: "intro", widget: "markdown"}
+  - name: "categorias"
+    label: "Categorías"
+    folder: "content/_categorias"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string", default: "/{{slug}}"}
+      - {label: "Categoría", name: "categoria", widget: "string"}
+      - label: "Imagen destacada"
+        name: "image"
+        widget: "object"
+        fields:
+          - {label: "Imagen", name: "url", widget: "image"}
+          - {label: "Alt", name: "alt", widget: "string"}
+      - {label: "Intro", name: "intro", widget: "markdown"}
