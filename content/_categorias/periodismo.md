@@ -1,5 +1,6 @@
 ---
-layout: category
 title: Periodismo
-category: periodismo
+permalink: /periodismo/
+categoria: Periodismo
 ---
+
