@@ -1,6 +1,6 @@
 ---
 title: Periodismo
 permalink: /periodismo/
-categoria: periodismo
+categoria: Periodismo
 ---
 
